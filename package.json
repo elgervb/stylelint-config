@@ -1,0 +1,31 @@
+{
+  "name": "stylelint-config-elgervb",
+  "version": "0.0.1",
+  "description": "Elgervb project stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ignore-path .gitignore",
+    "pretest": "npm run lint",
+    "release": "npmpub"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUKKIEN/stylelint-config-lukkien.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "lukkien"
+  ],
+  "author": "Lukkien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elgervb/elgervb-stylelint-config/issues"
+  },
+  "homepage": "https://github.com/elgervb/elgervb-stylelint-config",
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-stylelint": "6.0.0",
+    "stylelint": "7.7.1"
+  }
+}
