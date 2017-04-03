@@ -5,19 +5,17 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --ignore-path .gitignore",
-    "pretest": "npm run lint",
-    "release": "npmpub"
+    "pretest": "npm run lint"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LUKKIEN/stylelint-config-lukkien.git"
+    "url": "git+https://github.com/elgervb/elgervb-stylelint-config.git"
   },
   "keywords": [
     "stylelint",
-    "stylelint-config",
-    "lukkien"
+    "stylelint-config"
   ],
-  "author": "Lukkien",
+  "author": "elgervb",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/elgervb/elgervb-stylelint-config/issues"
