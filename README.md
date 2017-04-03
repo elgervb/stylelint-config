@@ -1,4 +1,9 @@
 
+[![devDependencies Status](https://david-dm.org/elgervb/stylelint-config/dev-status.svg)](https://david-dm.org/elgervb/stylelint-config?type=dev)
+
+[![Build Status](https://travis-ci.org/elgervb/stylelint-config.svg?branch=master)](https://travis-ci.org/elgervb/stylelint-config)
+
+
 # elgervb Stylelint config
 
 ## installation

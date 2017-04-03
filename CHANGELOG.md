@@ -1,4 +1,7 @@
 
+# WIP
+
+* add David-md and travis badges
 
 # 0.0.1
 
